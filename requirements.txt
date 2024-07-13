@@ -1,0 +1,5 @@
+Install 👇
+streamlit 
+groq 
+get Api key from (https://console.groq.com/keys)
+use streamlit run /file in the terminal to run 
